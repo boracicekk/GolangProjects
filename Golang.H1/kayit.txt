@@ -1,0 +1,79 @@
+DATE: 2023/11/06 22:59:55 main.go:48: Username: Admin.
+ Admin remaining attempts: 5
+DATE: 2023/11/06 22:59:55 main.go:48: Username: Admin.
+ Admin remaining attempts: 4
+DATE: 2023/11/06 22:59:56 main.go:48: Username: Admin.
+ Admin remaining attempts: 3
+DATE: 2023/11/06 22:59:57 main.go:48: Username: Admin.
+ Admin remaining attempts: 2
+DATE: 2023/11/06 22:59:58 main.go:48: Username: Admin.
+ Admin remaining attempts: 1
+DATE: 2023/11/06 22:59:59 main.go:53: Admin Succesfully logged in
+DATE: 2023/11/06 23:01:23 main.go:49: Username: Admin.
+ Admin remaining attempts: 5
+Access:DENIED
+DATE: 2023/11/06 23:01:23 main.go:49: Username: Admin.
+ Admin remaining attempts: 4
+Access:DENIED
+DATE: 2023/11/06 23:01:24 main.go:49: Username: Admin.
+ Admin remaining attempts: 3
+Access:DENIED
+DATE: 2023/11/06 23:01:24 main.go:49: Username: Admin.
+ Admin remaining attempts: 2
+Access:DENIED
+DATE: 2023/11/06 23:01:25 main.go:49: Username: Admin.
+ Admin remaining attempts: 1
+Access:DENIED
+DATE: 2023/11/06 23:01:26 main.go:54: Admin Succesfully logged in
+DATE: 2023/11/06 23:02:12 main.go:48: Username: Admin.
+ Admin remaining attempts: 5
+Access:DENIED
+DATE: 2023/11/06 23:02:13 main.go:48: Username: Admin.
+ Admin remaining attempts: 4
+Access:DENIED
+DATE: 2023/11/06 23:02:13 main.go:48: Username: Admin.
+ Admin remaining attempts: 3
+Access:DENIED
+DATE: 2023/11/06 23:02:13 main.go:48: Username: Admin.
+ Admin remaining attempts: 2
+Access:DENIED
+DATE: 2023/11/06 23:02:14 main.go:48: Username: Admin.
+ Admin remaining attempts: 1
+Access:DENIED
+DATE: 2023/11/06 23:02:15 main.go:53: Admin Succesfully logged in
+LOG DATE: 2023/11/06 23:04:45 main.go:30: Admin Succesfully logged in!
+LOG DATE: 2023/11/06 23:04:50 main.go:30: Admin Succesfully logged in!
+LOG DATE: 2023/11/06 23:35:08 main.go:30: Admin Succesfully logged in!
+LOG DATE: 2023/11/06 23:51:53 main.go:49: Username: Admin.
+ Admin remaining attempts: 5
+Access:DENIED
+LOG DATE: 2023/11/06 23:51:53 main.go:49: Username: Admin.
+ Admin remaining attempts: 4
+Access:DENIED
+LOG DATE: 2023/11/06 23:51:54 main.go:49: Username: Admin.
+ Admin remaining attempts: 3
+Access:DENIED
+LOG DATE: 2023/11/06 23:51:54 main.go:49: Username: Admin.
+ Admin remaining attempts: 2
+Access:DENIED
+LOG DATE: 2023/11/06 23:51:55 main.go:49: Username: Admin.
+ Admin remaining attempts: 1
+Access:DENIED
+LOG DATE: 2023/11/06 23:51:56 main.go:54: Admin Succesfully logged in
+LOG DATE: 2023/11/06 23:55:36 main.go:55: Username: Admin.
+ Admin remaining attempts: 5
+Access:DENIED
+LOG DATE: 2023/11/06 23:55:37 main.go:55: Username: Admin.
+ Admin remaining attempts: 4
+Access:DENIED
+LOG DATE: 2023/11/06 23:55:37 main.go:55: Username: Admin.
+ Admin remaining attempts: 3
+Access:DENIED
+LOG DATE: 2023/11/06 23:55:38 main.go:60: Admin Succesfully logged in
+LOG DATE: 2023/11/06 23:57:02 main.go:55: Username: Admin.
+ Admin remaining attempts: 5
+Access:DENIED
+LOG DATE: 2023/11/06 23:57:07 main.go:60: Admin Succesfully logged in
+LOG DATE: 2023/11/06 23:57:27 main.go:31: Admin Succesfully logged in!
+LOG DATE: 2023/11/07 19:42:55 main.go:31: Admin Succesfully logged in!
+LOG DATE: 2023/11/07 19:45:49 main.go:31: Admin Succesfully logged in!
